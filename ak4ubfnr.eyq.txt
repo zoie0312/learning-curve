@@ -1,0 +1,72 @@
+﻿first commit, to include codes from learn_python_the_hard_way
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Changes to be committed:
+#   (use "git reset HEAD <file>..." to unstage)
+#
+#	new file:   learn_python_the_hard_way/ex1.py
+#	new file:   learn_python_the_hard_way/ex10.py
+#	new file:   learn_python_the_hard_way/ex10.py.bak
+#	new file:   learn_python_the_hard_way/ex11.py
+#	new file:   learn_python_the_hard_way/ex11.py.bak
+#	new file:   learn_python_the_hard_way/ex12.py
+#	new file:   learn_python_the_hard_way/ex13.py
+#	new file:   learn_python_the_hard_way/ex14.py
+#	new file:   learn_python_the_hard_way/ex14.py.bak
+#	new file:   learn_python_the_hard_way/ex15.py
+#	new file:   learn_python_the_hard_way/ex15.py.bak
+#	new file:   learn_python_the_hard_way/ex15_sample.TXT
+#	new file:   learn_python_the_hard_way/ex16.py
+#	new file:   learn_python_the_hard_way/ex16.py.bak
+#	new file:   learn_python_the_hard_way/ex17.py
+#	new file:   learn_python_the_hard_way/ex17.py.bak
+#	new file:   learn_python_the_hard_way/ex18.py
+#	new file:   learn_python_the_hard_way/ex19.py
+#	new file:   learn_python_the_hard_way/ex19.py.bak
+#	new file:   learn_python_the_hard_way/ex20.py
+#	new file:   learn_python_the_hard_way/ex20.py.bak
+#	new file:   learn_python_the_hard_way/ex21.py
+#	new file:   learn_python_the_hard_way/ex21.py.bak
+#	new file:   learn_python_the_hard_way/ex24.py
+#	new file:   learn_python_the_hard_way/ex25.py
+#	new file:   learn_python_the_hard_way/ex25.py.bak
+#	new file:   learn_python_the_hard_way/ex25.pyc
+#	new file:   learn_python_the_hard_way/ex26.py
+#	new file:   learn_python_the_hard_way/ex26.py.bak
+#	new file:   learn_python_the_hard_way/ex29.py
+#	new file:   learn_python_the_hard_way/ex29.py.bak
+#	new file:   learn_python_the_hard_way/ex3.py
+#	new file:   learn_python_the_hard_way/ex3.py.bak
+#	new file:   learn_python_the_hard_way/ex30.py
+#	new file:   learn_python_the_hard_way/ex31.py
+#	new file:   learn_python_the_hard_way/ex31.py.bak
+#	new file:   learn_python_the_hard_way/ex32.py
+#	new file:   learn_python_the_hard_way/ex32.py.bak
+#	new file:   learn_python_the_hard_way/ex33.py
+#	new file:   learn_python_the_hard_way/ex33.py.bak
+#	new file:   learn_python_the_hard_way/ex35.py
+#	new file:   learn_python_the_hard_way/ex35.py.bak
+#	new file:   learn_python_the_hard_way/ex38.py
+#	new file:   learn_python_the_hard_way/ex39.py
+#	new file:   learn_python_the_hard_way/ex4.py
+#	new file:   learn_python_the_hard_way/ex4.py.bak
+#	new file:   learn_python_the_hard_way/ex40.py
+#	new file:   learn_python_the_hard_way/ex40.py.bak
+#	new file:   learn_python_the_hard_way/ex43.py
+#	new file:   learn_python_the_hard_way/ex43.py.bak
+#	new file:   learn_python_the_hard_way/ex5.py
+#	new file:   learn_python_the_hard_way/ex5.py.bak
+#	new file:   learn_python_the_hard_way/ex6.py
+#	new file:   learn_python_the_hard_way/ex6.py.bak
+#	new file:   learn_python_the_hard_way/ex7.py
+#	new file:   learn_python_the_hard_way/ex7.py.bak
+#	new file:   learn_python_the_hard_way/ex8.py
+#	new file:   learn_python_the_hard_way/ex8.py.bak
+#	new file:   learn_python_the_hard_way/ex9.py
+#	new file:   learn_python_the_hard_way/new_file.txt
+#	new file:   learn_python_the_hard_way/oop_test.py
+#	new file:   learn_python_the_hard_way/oop_test.py.bak
+#	new file:   learn_python_the_hard_way/test.txt
+#
+
