@@ -1,0 +1,21 @@
+<!--$def with (room) -->
+
+<h1>{{ room.name }}</h1>
+
+<pre>
+{{ room.description }}
+</pre>
+
+
+{% if room.name == "The End" %}
+	<p><a href="{% url 'gothonweb:index' %}">Play Again?</a></p>
+{% else %}
+	<button type="button" onclick="alert('{{ room.get_possible_paths }}')">Hint</button>
+	<p>
+	<form action="/gothonweb/game/" method="POST">
+	{% csrf_token %}
+		- <input type="text" name="useraction"><input type="SUBMIT">
+	</form>
+	</p>
+{% endif %}	
+	

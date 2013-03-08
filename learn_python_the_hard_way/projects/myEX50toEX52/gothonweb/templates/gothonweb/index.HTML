@@ -1,0 +1,14 @@
+
+{% include "gothonweb/layout.html" %}
+
+  
+{% if greeting %}
+<ul>
+	I just wanted to say <em style="color: green; font-size: 2em;">{{ greeting }}</em>
+</ul>	
+<a href="{% url 'gothonweb:index' %}">Wanna play a game?</a>
+{% else %}
+	<em>Hello</em>, world!
+{% endif %}
+
+
